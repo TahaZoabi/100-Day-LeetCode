@@ -41,7 +41,7 @@ LeetCode is a popular platform for coding interviews and practice. This challeng
 |-----|---------------|--------|
 | 1   | 412. FizzBuzz   | ✅ Completed |
 | 2   |   1. Two Sum      | ✅ Completed |
-|     |                 |               |
+| 3  |  242. Valid Anagram  |✅ Completed|
 | ... | ...           | ...    |
 | 100 | Problem Title | In Progress |
 
