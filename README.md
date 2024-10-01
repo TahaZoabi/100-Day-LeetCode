@@ -43,6 +43,7 @@ LeetCode is a popular platform for coding interviews and practice. This challeng
 | 2   |   1. Two Sum      | ✅ Completed |
 | 3  |  242. Valid Anagram  |✅ Completed|
 | 4  | 344. Reverse String | ✅ Completed |
+| 5 | 14. Longest Common Prefix |✅ Completed  |
 | ... | ...           | ...    |
 | 100 | Problem Title | In Progress |
 
